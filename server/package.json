@@ -1,0 +1,26 @@
+{
+  "name": "lead-management-system",
+  "version": "1.0.0",
+  "description": "an api for lead-management-system",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/a-ayushigit/Lead-Management-System.git"
+  },
+  "author": "Ankita Ayushi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-ayushigit/Lead-Management-System/issues"
+  },
+  "homepage": "https://github.com/a-ayushigit/Lead-Management-System#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
